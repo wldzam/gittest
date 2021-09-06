@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace 
+
+int main()
+{
+
+    int i;
+
+    cout << "Ass" << endl;
+
+    return 0;
+}
